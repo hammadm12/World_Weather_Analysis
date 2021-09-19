@@ -6,4 +6,4 @@ Throughout the module, by utilizing the "PlanMyTrip" app, we were able to assist
 ## Beta testing vacation itinerary
 For this specific challenge, we are looking at four cities relatively near each other on Google Maps. These four cities are: Rosarito, Maneadero, San Quintin, and Guerrero Negro. The city of Rosarito will be our starting and end point in our travel route.
 
-![](Vacation_Itinerary/ WeatherPy_travel_map_markers.PNG)
+![](Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
