@@ -8,4 +8,4 @@ For this specific challenge, we are looking at four cities relatively near each 
 
 ![](Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
 
-As we can see in our travel map,  our travel route seems to be serene with the weather being clear skies and above 70 degrees in all four cities making it an ideal summer vacation.
+As we can see in our travel map,  our travel route seems to be serene with the weather being clear skies and above 70 degrees in all four cities making it an ideal summer vacation. With the added weather descriptions, the app has become a more intuitive and user friendly experience in planning future trips.
