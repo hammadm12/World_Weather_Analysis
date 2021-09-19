@@ -7,3 +7,5 @@ Throughout the module, by utilizing the "PlanMyTrip" app, we were able to assist
 For this specific challenge, we are looking at four cities relatively near each other on Google Maps. These four cities are: Rosarito, Maneadero, San Quintin, and Guerrero Negro. The city of Rosarito will be our starting and end point in our travel route.
 
 ![](Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
+
+As we can see in our travel map,  our travel route seems to be serene with the weather being clear skies and above 70 degrees in all four cities making it an ideal summer vacation.
